@@ -2,7 +2,7 @@ import java.util.Random;
 
 /**
  *
- * @author Vijini
+ * @author Diogo
  */
 
 //Main class
